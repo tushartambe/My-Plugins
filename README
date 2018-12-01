@@ -1,0 +1,3 @@
+git clone every folder into following path ->
+~/.vim/pack/myplugin/start
+
